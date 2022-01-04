@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values" : [
+    "examplemod:horseshoe",
+    "examplemod:obsidian",
+    "examplemod:cloud",
+    "examplemod:cobalt",
+    "examplemod:hermes"
+  ]
+}
