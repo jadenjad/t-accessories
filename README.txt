@@ -1,4 +1,4 @@
-T-Accessoreis Mod
+#T-Accessoreis Mod
 
 This mod has been implemented using the Curios API found here: https://github.com/TheIllusiveC4/Curios
 
