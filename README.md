@@ -2,7 +2,7 @@
 
 ## Overview
 
-T-accessories is a simple mod for Minecraft 1.16.5, implementing the Curios 1.16.5 API found here: (https://github.com/TheIllusiveC4/Curios). This mod adds various Terraria accesories to the game using Curios as the base for accesory slots.
+T-accessories is a simple mod for Minecraft 1.16.5, implementing the Curios 1.16.5 API found here: https://github.com/TheIllusiveC4/Curios. This mod adds various Terraria accesories to the game using Curios as the base for accesory slots.
 
 ## Features
 
